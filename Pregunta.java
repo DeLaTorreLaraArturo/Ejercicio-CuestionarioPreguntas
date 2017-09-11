@@ -21,7 +21,7 @@ public class Pregunta
     {
     }
     
-    public imprimete()
+    public void imprimete()
     {
     }
 }
